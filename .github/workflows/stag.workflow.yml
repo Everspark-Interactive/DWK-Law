@@ -1,4 +1,4 @@
-name: Everspark Staging Deploy
+name: Everspark Stagingg Deploy
 on:
   push:
     branches:
